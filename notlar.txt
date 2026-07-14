@@ -1,1 +1,2 @@
 bu  git denemesi amaçlı bir yazıdır.
+dallanma denemesi
